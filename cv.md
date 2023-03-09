@@ -46,7 +46,7 @@ let currentWin = ticket.reduce((count, elem) => {
 ## Education
 
 * Voronezh State Technical University (Computer-aided design systems)
-* The Rolling Scopes School. JS/FRONT-END. STAGE 0.
+* The Rolling Scopes School. JS/FRONT-END 2022. STAGE 0.
 
   
 ## Experience
